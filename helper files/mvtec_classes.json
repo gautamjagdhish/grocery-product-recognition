@@ -1,0 +1,304 @@
+{
+    "categories": [
+        {
+            "supercategory": "tea",
+            "id": 46,
+            "name": "gepa_bio_und_fair_fencheltee"
+        },
+        {
+            "supercategory": "tea",
+            "id": 48,
+            "name": "gepa_bio_und_fair_kraeuterteemischung"
+        },
+        {
+            "supercategory": "tea",
+            "id": 47,
+            "name": "gepa_bio_und_fair_kamillentee"
+        },
+        {
+            "supercategory": "tea",
+            "id": 45,
+            "name": "ethiquable_gruener_tee_ceylon"
+        },
+        {
+            "supercategory": "tea",
+            "id": 49,
+            "name": "gepa_bio_und_fair_pfefferminztee"
+        },
+        {
+            "supercategory": "tea",
+            "id": 50,
+            "name": "gepa_bio_und_fair_rooibostee"
+        },
+        {
+            "supercategory": "tea",
+            "id": 51,
+            "name": "kilimanjaro_tea_earl_grey"
+        },
+        {
+            "supercategory": "cereals",
+            "id": 17,
+            "name": "koelln_muesli_fruechte"
+        },
+        {
+            "supercategory": "cereals",
+            "id": 18,
+            "name": "koelln_muesli_schoko"
+        },
+        {
+            "supercategory": "cereals",
+            "id": 16,
+            "name": "dr_oetker_vitalis_knuspermuesli_klassisch"
+        },
+        {
+            "supercategory": "packaged cereal bars",
+            "id": 12,
+            "name": "corny_nussvoll"
+        },
+        {
+            "supercategory": "packaged cereal bars",
+            "id": 14,
+            "name": "corny_schoko_banane"
+        },
+        {
+            "supercategory": "ink cartridge",
+            "id": 44,
+            "name": "pelikan_tintenpatrone_canon"
+        },
+        {
+            "supercategory": "salad",
+            "id": 55,
+            "name": "lettuce"
+        },
+        {
+            "supercategory": "carrots",
+            "id": 53,
+            "name": "carrot"
+        },
+        {
+            "supercategory": "cucumbers",
+            "id": 52,
+            "name": "cucumber"
+        },
+        {
+            "supercategory": "zucchinis",
+            "id": 60,
+            "name": "zucchini"
+        },
+        {
+            "supercategory": "apples",
+            "id": 26,
+            "name": "apple_golden_delicious"
+        },
+        {
+            "supercategory": "apples",
+            "id": 27,
+            "name": "apple_granny_smith"
+        },
+        {
+            "supercategory": "apples",
+            "id": 28,
+            "name": "apple_red_boskoop"
+        },
+        {
+            "supercategory": "orange citrus",
+            "id": 37,
+            "name": "orange_single"
+        },
+        {
+            "supercategory": "orange citrus",
+            "id": 33,
+            "name": "clementine_single"
+        },
+        {
+            "supercategory": "avocados",
+            "id": 29,
+            "name": "avocado"
+        },
+        {
+            "supercategory": "bananas",
+            "id": 30,
+            "name": "banana_bundle"
+        },
+        {
+            "supercategory": "bananas",
+            "id": 31,
+            "name": "banana_single"
+        },
+        {
+            "supercategory": "kiwis",
+            "id": 36,
+            "name": "kiwi"
+        },
+        {
+            "supercategory": "pears",
+            "id": 39,
+            "name": "pear"
+        },
+        {
+            "supercategory": "board eraser",
+            "id": 43,
+            "name": "franken_tafelreiniger"
+        },
+        {
+            "supercategory": "canned soft drink",
+            "id": 10,
+            "name": "suntory_gokuri_lemonade"
+        },
+        {
+            "supercategory": "pasta",
+            "id": 40,
+            "name": "pasta_reggia_elicoidali"
+        },
+        {
+            "supercategory": "pasta",
+            "id": 41,
+            "name": "pasta_reggia_fusilli"
+        },
+        {
+            "supercategory": "pasta",
+            "id": 42,
+            "name": "pasta_reggia_spaghetti"
+        },
+        {
+            "supercategory": "textured packaging",
+            "id": 19,
+            "name": "caona_cocoa"
+        },
+        {
+            "supercategory": "textured packaging",
+            "id": 21,
+            "name": "cafe_wunderbar_espresso"
+        },
+        {
+            "supercategory": "textured packaging",
+            "id": 24,
+            "name": "gepa_italienischer_bio_espresso"
+        },
+        {
+            "supercategory": "textured packaging",
+            "id": 22,
+            "name": "douwe_egberts_professional_ground_coffee"
+        },
+        {
+            "supercategory": "textured packaging",
+            "id": 13,
+            "name": "corny_nussvoll_single"
+        },
+        {
+            "supercategory": "textured packaging",
+            "id": 15,
+            "name": "corny_schoko_banane_single"
+        },
+        {
+            "supercategory": "textured packaging",
+            "id": 23,
+            "name": "gepa_bio_caffe_crema"
+        },
+        {
+            "supercategory": "textured packaging",
+            "id": 20,
+            "name": "cocoba_cocoa"
+        },
+        {
+            "supercategory": "plastic tray",
+            "id": 34,
+            "name": "grapes_green_sugraone_seedless"
+        },
+        {
+            "supercategory": "plastic tray",
+            "id": 54,
+            "name": "corn_salad"
+        },
+        {
+            "supercategory": "plastic tray",
+            "id": 58,
+            "name": "rocket"
+        },
+        {
+            "supercategory": "plastic tray",
+            "id": 35,
+            "name": "grapes_sweet_celebration_seedless"
+        },
+        {
+            "supercategory": "nets",
+            "id": 38,
+            "name": "oranges"
+        },
+        {
+            "supercategory": "nets",
+            "id": 32,
+            "name": "clementine"
+        },
+        {
+            "supercategory": "foil",
+            "id": 59,
+            "name": "salad_iceberg"
+        },
+        {
+            "supercategory": "cardboard tray",
+            "id": 56,
+            "name": "vine_tomatoes"
+        },
+        {
+            "supercategory": "cardboard tray",
+            "id": 25,
+            "name": "apple_braeburn_bundle"
+        },
+        {
+            "supercategory": "cardboard tray",
+            "id": 57,
+            "name": "roma_vine_tomatoes"
+        },
+        {
+            "supercategory": "water",
+            "id": 1,
+            "name": "adelholzener_alpenquelle_classic_075"
+        },
+        {
+            "supercategory": "water",
+            "id": 2,
+            "name": "adelholzener_alpenquelle_naturell_075"
+        },
+        {
+            "supercategory": "water",
+            "id": 4,
+            "name": "adelholzener_classic_naturell_02"
+        },
+        {
+            "supercategory": "coca cola",
+            "id": 8,
+            "name": "coca_cola_05"
+        },
+        {
+            "supercategory": "coca cola",
+            "id": 9,
+            "name": "coca_cola_light_05"
+        },
+        {
+            "supercategory": "apple spritzer",
+            "id": 3,
+            "name": "adelholzener_classic_bio_apfelschorle_02"
+        },
+        {
+            "supercategory": "brown glass",
+            "id": 6,
+            "name": "augustiner_lagerbraeu_hell_05"
+        },
+        {
+            "supercategory": "brown glass",
+            "id": 7,
+            "name": "augustiner_weissbier_05"
+        },
+        {
+            "supercategory": "brown glass",
+            "id": 11,
+            "name": "tegernseer_hell_03"
+        },
+        {
+            "supercategory": "blue glass",
+            "id": 5,
+            "name": "adelholzener_gourmet_mineralwasser_02"
+        }
+    ]
+}
